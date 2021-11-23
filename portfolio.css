@@ -1,0 +1,23 @@
+body{
+    background-color:#DEEDF0;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+h1{
+    color: cornflowerblue;
+}
+h3{
+    color: cornflowerblue;
+}
+/* .dp{
+    background-color: black;
+    
+} */
+/* html:hover{
+    background-color: black;
+} */
